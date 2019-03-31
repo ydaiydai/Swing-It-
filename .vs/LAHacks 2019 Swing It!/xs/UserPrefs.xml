@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{C2606716-3937-1DE6-B692-FE11BB004DF1}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/MainMenu.cs">
+    <Files>
+      <File FileName="Assets/Scripts/CoinCollection.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/OptionsMenu.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/MainMenu.cs" Line="13" Column="8" />
+      <File FileName="Assets/Scripts/Credits.cs" Line="9" Column="28" />
+      <File FileName="Assets/Scripts/EndTrigger.cs" Line="2" Column="35" />
+      <File FileName="Assets/Scripts/LevelComplete.cs" Line="8" Column="78" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="LAHacks 2019 Swing It!" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="MainMenu.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
