@@ -1,23 +1,24 @@
 # Swing-It-
-Submitted for LA Hacks 2019
+Submitted for LA Hacks 2019.
 
 ### Inspiration
-A multi level
+There was a student talked about that he had a cool dream. In his dream, he swing around like Spider-Man.
 
 ### What it does
-Users all connect to a room and race to achieve the fastest words per minute. Each user is given a set of 3 very distracting abilities to sabotage their opponents. To unlock a skill, the user must first achieve a certain amount of points. 
+It is a First-Person game. Player can swing around like a Spider-Man. There are three levels. Player need to complete different mission in each one of them.
 
 ### How We built it
-Each user connects to Firebase's real-time database, so everything is done clientside - no server necessary. Basically, we built this entire game with HTML/CSS, Javascript, and Firebase. 
+We used Unity and C#.
 
 ### Challenges We ran into
-We ran into a lot of problems. We had trouble understanding how Firebase's set of tools can be used. All the asynchronous functions we had going on created a lot of issues for us. Integrating client-side Javascript code with the necessary Firebase read/write functions was also a pain. 
+We had two major problems. First, we had trouble of implementing mechanical movement. Seoncd, we had trouble of adding more functionalities. We used a different way to achieve the swaing motion, which made the whole project hard to add more features .  
 
 ### Accomplishments that We're proud of
 We are proud of creating a serverless real-time multiplayer game!
 
 ### What We learned
-We learned that Firebase can be great but also can be super annoying.
+We learned a lot 3D from Unity.
 
 ### What's next for TypeTypeRevolution
-We want to include more abilities, as well as the option for users to be able to choose which set of abilities that we like to have in their arsenal during gameplay. 
+We want to reimplement the swing motion part. We also want to restructure the project design and add more levels. 
+
