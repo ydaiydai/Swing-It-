@@ -14,7 +14,7 @@ We used Unity and C#.
 We had two major problems. First, we had trouble of implementing mechanical movement. Seoncd, we had trouble of adding more functionalities. We used a different way to achieve the swaing motion, which made the whole project hard to add more features .  
 
 ### Accomplishments that We're proud of
-We are proud of creating a serverless real-time multiplayer game!
+We are proud that our player can actually swing through the level.
 
 ### What We learned
 We learned a lot 3D from Unity.
