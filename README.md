@@ -19,6 +19,6 @@ We are proud that our player can actually swing through the level.
 ### What We learned
 We learned a lot 3D from Unity.
 
-### What's next for TypeTypeRevolution
+### What's next for Swing It
 We want to reimplement the swing motion part. We also want to restructure the project design and add more levels. 
 
