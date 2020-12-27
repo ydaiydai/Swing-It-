@@ -1,4 +1,4 @@
-# Swing-It-
+# Swing It!
 Submitted for LA Hacks 2019.
 
 ### Inspiration
