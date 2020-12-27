@@ -5,7 +5,7 @@ Submitted for LA Hacks 2019.
 There was a student talked about that he had a cool dream. In his dream, he swings around like Spider-Man.
 
 ### What it does
-It is a First-Person game. Player can swing around like a Spider-Man. There are three levels. Player need to complete different mission in each one of them.
+It is a First-Person action game. Player can swing around levels like Spider-Man. There are three levels. The player need to complete different mission in each one of them.
 
 ### How We built it
 We used Unity and C#.
