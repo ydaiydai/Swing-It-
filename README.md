@@ -19,6 +19,4 @@ We are proud that the game physics is functional and that our player can swing t
 ### What We learned
 We learned a lot about Unity 3D, C#, and teamwork especially under extreme time limit.
 
-### What's next for Swing It
-We want to reimplement the swing motion part. We also want to restructure the project design and add more levels. 
 
