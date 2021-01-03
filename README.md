@@ -19,4 +19,10 @@ We are proud that the game physics is functional and that our player can swing t
 ### What We learned
 We learned a lot about Unity 3D, C#, and teamwork especially under extreme time limit.
 
+### For More Details:
+Go to my Swing It project page on my personal website: https://ydaiydai.github.io/portfolio/SwingIt.html
+
+### Screenshot
+<img src = "https://user-images.githubusercontent.com/43732281/103474330-b0490100-4d57-11eb-9a57-bb8fc27f941d.jpg" alt = "level02_swingSq" width = "400"/>
+
 
